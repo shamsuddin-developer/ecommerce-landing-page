@@ -3,6 +3,7 @@ body {
   color: black;
   font-size: 16px;
 }
+
 h1,
 h2,
 h3,
@@ -21,6 +22,11 @@ h3 {
 }
 h4 {
   font-size: 18px;
+}
+header,
+#product,
+#contact {
+  background: #eceeff;
 }
 .highlight {
   color: #157347;
